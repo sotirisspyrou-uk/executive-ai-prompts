@@ -325,7 +325,6 @@ presentation = ai_model.generate(
 - 📧 **Executive Advisory:** sotiris@verityai.co
 - 🌐 **Strategic Insights:** [verityai.co/landing/executive-ai](https://verityai.co)
 - 💼 **LinkedIn:** [linkedin.com/in/sspyrou](https://linkedin.com/in/sspyrou)
-- 📱 **Direct Line:** +44 7920 514 588
 
 ---
 
