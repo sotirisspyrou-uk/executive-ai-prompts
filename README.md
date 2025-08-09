@@ -41,7 +41,9 @@ This portfolio showcases comprehensive AI-powered business intelligence framewor
 ├── competitive_landscape_assessor.md    → Competitive intelligence & positioning
 ├── growth_strategy_developer.md         → Strategic growth planning & expansion
 ├── market_opportunity_analyzer.md       → Market analysis & opportunity assessment
-└── risk_assessment_framework.md         → Enterprise risk management & mitigation
+├── risk_assessment_framework.md         → Enterprise risk management & mitigation
+├── resource_allocation_optimizer.md     → Strategic resource optimization & capital efficiency
+└── scenario_planning_generator.md       → Strategic future planning & risk preparedness
 ```
 
 ### 2. Financial & Investment Analysis ✅  
